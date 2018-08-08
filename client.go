@@ -20,6 +20,7 @@ import (
 
 	"github.com/dgrijalva/jwt-go"
 	"github.com/pkg/errors"
+	uuid "github.com/satori/go.uuid"
 	"github.com/stephanos/clock"
 	erf "github.com/thales-e-security/erfcommon"
 )

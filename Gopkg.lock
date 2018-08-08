@@ -26,6 +26,12 @@
   version = "v1.0.0"
 
 [[projects]]
+  name = "github.com/satori/go.uuid"
+  packages = ["."]
+  revision = "f58768cc1a7a7e77a3bd49e98cdd21419399b6a3"
+  version = "v1.2.0"
+
+[[projects]]
   branch = "master"
   name = "github.com/stephanos/clock"
   packages = ["."]
@@ -46,6 +52,6 @@
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "d8a8f7eeb4782c3e4dccc8e8af405310b4cc634b943be26e6e33058b3fffdee4"
+  inputs-digest = "9eaea7eae7c048ab9cee762ec52389151a0d34e49df36bae2e33b631779b1e9a"
   solver-name = "gps-cdcl"
   solver-version = 1
