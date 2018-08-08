@@ -4,6 +4,6 @@
 [![Coverage Status](https://coveralls.io/repos/github/thales-e-security/erfclient/badge.svg?branch=master)](https://coveralls.io/github/thales-e-security/erfclient?branch=master)
 [![GoDoc](https://godoc.org/github.com/thales-e-security/erfclient?status.svg)](https://godoc.org/github.com/thales-e-security/erfclient)
 
-Example Ephemeral Random Fingerprint (ERF) client SDK.
+Example ephemeral random fingerprint (ERF) client library.
 
-See [erfserver](https://github.com/thales-e-security/erfserver) for more information.
+See [erftesting](https://github.com/thales-e-security/erftesting) for an example project that uses this client library and the corresponding server library.
